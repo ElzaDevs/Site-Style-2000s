@@ -2,7 +2,7 @@
 Evolução dos anos 2000 até hoje.
 <h1>Link Site Style 2000S</h1>
 <h4>https://elzadevs.github.io/Site-Style-2000s/</h4>
-<h4>[https://beautiful-toffee-e67426.netlify.app](https://style2000s.netlify.app/)](https://style2000s.netlify.app/)/</h4>
+<h4>https://style2000s.netlify.app/</h4>
 
 <br><br>
 <p>Meu primeiro Project</p>
